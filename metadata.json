@@ -1,0 +1,15 @@
+{
+  "name": "puppet-packages",
+  "version": "0.1.0",
+  "author": "rski",
+  "summary": "A module that installs the packages I usually install in a system",
+  "license": "GPLv3",
+  "source": "https;//github.com/rski/puppet-packages",
+  "project_page": "https://github.com/rski/puppet-packages",
+  "issues_url": "https://github.com/rski/puppet-packages/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
